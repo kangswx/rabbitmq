@@ -9,4 +9,7 @@ public class RabbitMQConsts {
     public static final String QUEUE_BAIDU = "baidu";         //百度队列
     public static final String QUEUE_SINA = "sina";           //新浪队列
 
+    public static final String EXCHANGE_WEATHER_ROUTING = "weather_routing";  //交换机
+    public static final String EXCHANGE_WEATHER_TOPIC = "weather_topic";  //交换机
+
 }
