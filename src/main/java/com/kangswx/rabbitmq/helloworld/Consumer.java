@@ -1,4 +1,4 @@
-package com.kangswx.rabbitmq;
+package com.kangswx.rabbitmq.helloworld;
 
 import com.kangswx.rabbitmq.utils.RabbitMQConsts;
 import com.kangswx.rabbitmq.utils.RabbitMQUtil;
